@@ -1,0 +1,10 @@
+.big-text {
+  font-size: 6rem;
+  font-weight: 200;
+  font-style: italic;
+  line-height: 6rem;
+}
+
+.text-bold {
+  font-weight: 800;
+}

@@ -1,0 +1,17 @@
+.main-header {
+  padding: 44px 60px 0px 60px;
+  display: flex;
+  justify-content: left;
+}
+
+.logo {
+  width: 48px;
+}
+
+.menu {
+  width: 100%;
+}
+
+.user {
+  width: 30px;
+}

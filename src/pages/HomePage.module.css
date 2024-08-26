@@ -1,0 +1,57 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  div {
+    padding: 60px 0;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 0.5px solid #000000;
+  }
+}
+
+.logo {
+  width: 332px;
+}
+
+.logo-type {
+  width: 400px;
+  margin-top: 40px;
+}
+
+.contents {
+  display: flex;
+  justify-content: center;
+  padding: 50px 10px;
+}
+
+.left {
+  width: 50%;
+  display: flex;
+  justify-content: right;
+  margin-right: 5vw;
+}
+
+.right {
+  width: 50%;
+
+  p {
+    font-weight: 200;
+    text-align: left;
+  }
+
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    margin: 40px 100px;
+  }
+}
+
+.cartel {
+  width: 100%;
+  text-align: right;
+}

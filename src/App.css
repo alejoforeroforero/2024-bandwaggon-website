@@ -1,0 +1,12 @@
+header {
+  width: 100vw;
+  height: 92px;
+}
+.contents {
+  min-height: 80vh;
+}
+
+footer {
+  width: 100vw;
+  height: 92px;
+}

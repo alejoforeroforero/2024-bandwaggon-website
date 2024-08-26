@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: JostRoman-Bold, Jost;
+        font-size: 20px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -.12em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 17)"><tspan class="cls-7" x="0" y="0">B</tspan><tspan class="cls-4" x="12.66" y="0">AN</tspan><tspan class="cls-5" x="42.6" y="0">D</tspan><tspan class="cls-2" x="56.34" y="0">W</tspan><tspan class="cls-6" x="75.32" y="0">A</tspan><tspan class="cls-3" x="89.1" y="0">GGON</tspan></text>
+</svg>

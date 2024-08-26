@@ -1,0 +1,16 @@
+.nav-menu {
+  ul {
+    display: flex;
+    justify-content: right;
+  }
+
+  li {
+    list-style: none;
+    margin-right: 60px;
+  }
+
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+}
