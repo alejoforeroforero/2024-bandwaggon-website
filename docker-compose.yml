@@ -1,10 +1,16 @@
+# services:
+#   vite-app:
+#     build: .
+#     ports:
+#       - '4500:4500'
+#     volumes:
+#       - .:/app
+#       - /app/node_modules
+#     environment:
+#       - CHOKIDAR_USEPOLLING=true
+
 services:
   vite-app:
     build: .
     ports:
-      - '4500:4500'
-    volumes:
-      - .:/app
-      - /app/node_modules
-    environment:
-      - CHOKIDAR_USEPOLLING=true
+      - '81:81'
