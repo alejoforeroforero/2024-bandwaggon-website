@@ -16,10 +16,4 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  server: {
-    port: 4500,
-    strictPort: true,
-    host: true,
-    origin: "http://0.0.0.0:4500",
-   },
 });
