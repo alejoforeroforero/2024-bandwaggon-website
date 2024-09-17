@@ -2,4 +2,4 @@ services:
   vite-app:
     build: .
     volumes:
-      - ./dist:/app/dist
+      - ./dist:/usr/share/nginx/html/2024-bandwaggon-website
